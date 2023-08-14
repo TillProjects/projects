@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# sudoku solver3
+# sudoku solver
 from board import create_grid, print_sudoku
 from solving import solve_sudoku
 
